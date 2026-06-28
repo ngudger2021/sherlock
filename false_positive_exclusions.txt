@@ -17,6 +17,7 @@ Hubski
 LessWrong
 Minecraft
 Odysee
+OurDJTalk
 Patched
 Rarible
 Realmeye
@@ -28,6 +29,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Star Citizen
 Trovo
 TryHackMe
 Velomania
