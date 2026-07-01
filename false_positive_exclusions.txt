@@ -1,9 +1,12 @@
 7Cups
 Airliners
+Anilist
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+BreachSta.rs Forum
+Chess
 Codolio
 DeviantArt
 Discord.bio
@@ -13,8 +16,11 @@ Giphy
 Hashnode
 Houzz
 Hubski
+Itch.io
 LessWrong
+Minecraft
 Odysee
+PCGamer
 Patched
 Rarible
 Realmeye
