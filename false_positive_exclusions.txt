@@ -4,9 +4,7 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-BoardGameGeek
 BreachSta.rs Forum
-Carrd
 Codolio
 DeviantArt
 Discord.bio
@@ -16,9 +14,7 @@ Giphy
 Hashnode
 Houzz
 Hubski
-Itch.io
 LessWrong
-LushStories
 Odysee
 PCGamer
 Patched
