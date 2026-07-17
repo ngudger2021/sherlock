@@ -12,12 +12,12 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
+Gravatar
 Hashnode
-Houzz
 Hubski
 LessWrong
-LiveJournal
 Odysee
+OurDJTalk
 PCGamer
 Patched
 Pornhub
@@ -31,6 +31,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Star Citizen
 Trovo
 TryHackMe
 Velomania
@@ -44,3 +45,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
