@@ -4,6 +4,8 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+BoardGameGeek
+Carrd
 Codolio
 DeviantArt
 Discord.bio
@@ -13,9 +15,9 @@ Giphy
 Hashnode
 Hubski
 LessWrong
+Minecraft
 Odysee
 PCGamer
-Patched
 Rarible
 Realmeye
 Reddit
@@ -26,8 +28,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Strava
-Trakt
 Trovo
 TryHackMe
 Velomania
