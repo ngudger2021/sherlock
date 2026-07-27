@@ -5,8 +5,8 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-CGTrader
 Codolio
+Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -15,6 +15,7 @@ Giphy
 Hashnode
 Hubski
 LessWrong
+Minecraft
 Odysee
 OurDJTalk
 PCGamer
@@ -30,8 +31,10 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 authorSTREAM
