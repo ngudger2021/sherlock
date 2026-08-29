@@ -17,10 +17,9 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Minecraft
 Odysee
-OurDJTalk
 PCGamer
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -40,7 +39,6 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
-eintracht
 fixya
 hunting
 igromania
