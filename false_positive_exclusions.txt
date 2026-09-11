@@ -7,6 +7,7 @@ Bandcamp
 Championat
 Chatujme.cz
 Codolio
+ColourLovers
 DeviantArt
 Discord.bio
 Envato Forum
@@ -16,10 +17,11 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Minecraft
+Mydramalist
 ObservableHQ
 Odysee
 PCGamer
-Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -29,7 +31,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
@@ -43,6 +44,5 @@ igromania
 interpals
 mercadolivre
 opennet
-phpRU
 social.tchncs.de
 svidbook
