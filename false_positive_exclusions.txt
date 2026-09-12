@@ -17,8 +17,6 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Minecraft
-Mydramalist
 ObservableHQ
 Odysee
 PCGamer
@@ -26,11 +24,13 @@ Rarible
 Realmeye
 Reddit
 ReverbNation
+RocketTube
 Scribd
 Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
@@ -44,5 +44,6 @@ igromania
 interpals
 mercadolivre
 opennet
+phpRU
 social.tchncs.de
 svidbook
