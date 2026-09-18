@@ -10,15 +10,18 @@ Championat
 Chatujme.cz
 ChaturBate
 Codolio
+Crevado
 DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
 Hashnode
+Hive Blog
 Houzz
 Hubski
 Instapaper
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -28,7 +31,6 @@ Realmeye
 Reddit
 ReverbNation
 RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
@@ -51,3 +53,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
