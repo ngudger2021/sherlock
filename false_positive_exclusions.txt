@@ -20,6 +20,7 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
