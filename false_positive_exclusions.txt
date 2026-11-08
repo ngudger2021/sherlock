@@ -11,10 +11,12 @@ DeviantArt
 Discord.bio
 GaiaOnline
 GeeksforGeeks
+GitLab
 HackerNews
 Hashnode
 Hubski
 Instapaper
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -43,4 +45,3 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
-xHamster
