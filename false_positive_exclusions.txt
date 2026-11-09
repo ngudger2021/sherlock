@@ -1,4 +1,3 @@
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -11,14 +10,13 @@ DeviantArt
 Discord.bio
 GaiaOnline
 GeeksforGeeks
-GitLab
 HackerNews
 Hashnode
 Hubski
 Instapaper
-Minecraft
 ObservableHQ
 Odysee
+Outgress
 PCGamer
 Rarible
 Realmeye
