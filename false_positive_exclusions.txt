@@ -28,7 +28,7 @@ Shelf
 SlideShare
 Splice
 Spotify
-Tenor
+Trakt
 TryHackMe
 Velomania
 Vero
