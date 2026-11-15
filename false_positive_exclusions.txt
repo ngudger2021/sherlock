@@ -1,12 +1,12 @@
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
+Carbonmade
 Championat
 Chatujme.cz
 Codolio
-DeviantArt
 Discord.bio
 GaiaOnline
 GeeksforGeeks
@@ -17,12 +17,15 @@ Instapaper
 Minecraft
 ObservableHQ
 Odysee
+OurDJTalk
 PCGamer
+Pornhub
 Rarible
 Realmeye
 Reddit
 ReverbNation
 RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
@@ -36,6 +39,7 @@ YandexMusic
 authorSTREAM
 dailykos
 fixya
+furaffinity
 hunting
 igromania
 interpals
@@ -43,3 +47,4 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
+xHamster
